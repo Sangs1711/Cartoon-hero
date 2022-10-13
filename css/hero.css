@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-image: url("https://media.istockphoto.com/illustrations/ultra-violet-white-wavy-background-ombre-pastel-gradient-abstract-illustration-id965139598?k=20&m=965139598&s=612x612&w=0&h=IWroY4ZExICT0vQuDk54eOvWARAeiF4HP9xyF0KaxYM=");
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+h1, h2{
+    font-family: 'Roboto', sans-serif;
+}
+header h1{
+    color: #9B59B6;
+    font-family: 'Roboto', sans-serif;
+}
+
+header img{
+    width: 300px;
+    height: 300px ;
+    border-radius: 157.5px;
+    border: 10px solid #9B59B6;
+}
