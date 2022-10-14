@@ -25,3 +25,20 @@ header img{
     border-radius: 157.5px;
     border: 10px solid #9B59B6;
 }
+
+main img{
+    width: 500px;
+    height: auto;
+}
+
+main ul{
+    margin-left: 500px;
+}
+
+main h2{
+    margin-left: 525px;
+}
+
+img.stage_1{
+    margin-top: -125px;
+}
