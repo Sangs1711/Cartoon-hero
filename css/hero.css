@@ -35,10 +35,54 @@ main ul{
     margin-left: 500px;
 }
 
-main h2{
+img.stage_1{
+    margin-top: -100px;
+}
+
+h2.AR{
     margin-left: 525px;
 }
 
-img.stage_1{
-    margin-top: -125px;
+ul.stage_2{
+    margin-left:0px;
+}
+
+img.stage_2{
+    margin-left:700px;
+    margin-top: -150px
+}
+
+img.stage_3{
+    margin-top:-130px;
+}
+
+.about{
+    background: Lavender;
+    border: 2.5px solid #9B59B6;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+h2.cd{
+    color: #9B59B6;
+}
+
+.s1{
+    background: Lavender;
+    border: 2.5px solid #9B59B6;
+    border-radius: 10px;
+}
+
+.s2{
+    background: Lavender;
+    border: 2.5px solid #9B59B6;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.s3{
+    background: Lavender;
+    border: 2.5px solid #9B59B6;
+    border-radius: 10px;
+    margin-top: 10px;
 }
